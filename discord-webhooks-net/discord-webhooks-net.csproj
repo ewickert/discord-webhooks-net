@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <PackageId>discord-webhooks-net</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Eric Wickert</Authors>
+    <Company>Eric Wickert</Company>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>discordwebhooksnet</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

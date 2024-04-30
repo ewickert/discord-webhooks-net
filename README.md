@@ -1,0 +1,1 @@
+Simple library for my discord webhook bots.
